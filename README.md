@@ -1,4 +1,7 @@
 # WIP: NLP Malayalam
+
+Malayalam is a language spoken in my home state of Kerala. The objective of this project is to experiment with NLP tools and use it for future applications.
+
 Experimenting with NLP Tools for Malayalam
 
 ## Step 1: Developing Multiple Malayalam Language Models 
